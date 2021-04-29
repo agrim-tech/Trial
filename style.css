@@ -1,0 +1,46 @@
+.body_backgorund {
+    background: linear-gradient(#00b330,#009bb3);
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: #1a1a1a; 
+      font-size: 40px;
+      font-family: 'Kufam', cursive;
+      font-weight: 400;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+  }
+  select{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;  
+  }
+  label{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+  }
+  
